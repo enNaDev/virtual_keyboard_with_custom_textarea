@@ -1,6 +1,6 @@
 # virtual_keyboard_with_custom_textarea
 
-A textarea turned into beautiful notepad using CSS.
+A textarea is turned into a beautiful notepad by using CSS.
 
 By clicking on the textarea, a virtual keyboard pops up from where you can start writing. 
 
