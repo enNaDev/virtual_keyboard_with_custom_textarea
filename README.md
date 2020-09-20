@@ -2,7 +2,7 @@
 
 ### Live demo: https://ennadev.github.io/virtual_keyboard_with_custom_textarea/
 
-### Key concepts: use of JavaScript and CSS
+#### Key concepts: use of JavaScript and CSS
 
 A textarea has been turned into a beautiful notepad with CSS.
 
