@@ -111,7 +111,7 @@ const Keyboard = {
 
                 case "done":
                     keyElement.classList.add("keyboard__key--wide", "keyboard__key--dark");
-                    keyElement.innerHTML = createIconHTML("check_circle");
+                    keyElement.innerHTML = "HIDE";
 
                     keyElement.addEventListener("click", () => {
                         this.close();

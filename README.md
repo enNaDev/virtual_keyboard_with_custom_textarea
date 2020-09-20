@@ -1,9 +1,11 @@
-# virtual_keyboard_with_custom_textarea
+# Virtual keyboard with custom textarea
 
-https://ennadev.github.io/virtual_keyboard_with_custom_textarea/
+### Live demo: https://ennadev.github.io/virtual_keyboard_with_custom_textarea/
 
-A textarea is turned into a beautiful notepad by using CSS.
+### Key concepts: use of JavaScript and CSS
 
-By clicking on the textarea, a virtual keyboard pops up from where you can start writing. 
+A textarea has been turned into a beautiful notepad with CSS.
 
-The keyboard has been built with pure JavaScript (Vanilla), HTML and CSS.
+By clicking on the textarea, the virtual keyboard pops up. 
+
+The keyboard is built with Vanilla JavaScript and CSS.
