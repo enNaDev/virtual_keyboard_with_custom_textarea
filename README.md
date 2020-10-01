@@ -1,6 +1,6 @@
-# Virtual keyboard with custom textarea
+## Virtual keyboard with custom textarea
 
-### Live demo: https://ennadev.github.io/virtual_keyboard_with_custom_textarea/
+#### Live demo: https://ennadev.github.io/virtual_keyboard_with_custom_textarea/
 
 #### Key concepts: use of JavaScript and CSS
 
